@@ -116,6 +116,8 @@ function deleteNode(index){
 
 
 let search= document.getElementById('searchTxt');
+
+
 search.addEventListener("input",function(){
     let inputVal= search.value;
 
